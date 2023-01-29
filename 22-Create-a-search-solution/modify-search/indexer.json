@@ -25,6 +25,7 @@
         "sourceFieldName": "metadata_storage_path",
         "targetFieldName": "url"
       }
+
     ],
     "outputFieldMappings": [
       {

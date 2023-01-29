@@ -3,7 +3,7 @@
     "description" : "Documents for search.",  
     "type" : "azureblob",
     "credentials" :
-    { "connectionString" : "YOUR_CONNECTION_STRING"
+    { "connectionString" : "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=ai102str3261418703;AccountKey=PuFHG7tyocDfrfkgvY+UiVPspnW8MEs/LZPTzNFS3M+KbvYxU2W46AlruzNErLLD5qKSeo69D/bf+AStiti8qA==;BlobEndpoint=https://ai102str3261418703.blob.core.windows.net/;FileEndpoint=https://ai102str3261418703.file.core.windows.net/;QueueEndpoint=https://ai102str3261418703.queue.core.windows.net/;TableEndpoint=https://ai102str3261418703.table.core.windows.net/"
     },  
     "container" : { "name" : "margies" }
 } 
